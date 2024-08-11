@@ -177,7 +177,7 @@ background-color: #404bbf;
 .page-title{
     padding-top: 188px;
         padding-bottom: 188px;
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/people-office\ 1\ \(1\)\ \(1\).jpg) ;
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/people-office\ 1\ \(1\)\ \(1\).jpg); 
         max-width: 1440px;
         background-repeat: no-repeat;
         background-position: center;
@@ -304,6 +304,11 @@ font-size: 16px;
        
         padding-top: 120px; 
         padding-bottom: 120px;
+        
+    }
+    .employees-icon {
+        width: 40px;
+        height: 40px; 
         
     }
     .employees  h2 {
