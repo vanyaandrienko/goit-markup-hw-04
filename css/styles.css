@@ -17,7 +17,7 @@ h6 {
     margin-top: 0;
     margin-bottom: 0;
 }
-.container{
+.container {
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -295,8 +295,9 @@ font-size: 16px;
         background-color: #F4F4FD;
     }
     .employees .container {
-        text-align: center;
-        padding-top: 120px; padding-bottom: 120px;
+       
+        padding-top: 120px; 
+        padding-bottom: 120px;
         
     }
     .employees  h2 {
@@ -316,6 +317,7 @@ font-size: 16px;
     .employees-card {
         display: flex;
         gap: 24px;
+        list-style: none;
     }
     .employees-main {
         text-transform: capitalize;
@@ -344,10 +346,25 @@ font-size: 16px;
         margin-bottom: 8px;
         
     }
+    .icon-list {
+        display: flex;
+        gap: 24px;
+        justify-content: center;
+        fill: #F4F4FD;
+        padding-top: 8px;
+        
+    }
     
+    .icon {
+        background-color: #4D5AE5;
+        border-radius: 50%;
+        fill: #F4F4FD;
+
+    }
     .card {
         padding-top: 32px; 
         padding-bottom: 32px;
+        
     }
     .employees-photo {
         
