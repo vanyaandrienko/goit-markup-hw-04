@@ -328,6 +328,12 @@ font-size: 16px;
         align-items: center;
         justify-content: center;
     }
+    .link-icon-instagram .link:hover{
+        background-color: #404bbf
+    }
+    .link-icon-instagram .link:focus{
+        background-color: #404bbf;
+    }
     .icon {
         fill: #f4f4fd;
     }
