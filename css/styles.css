@@ -87,8 +87,7 @@ img {
 }
 .link-navigation {
     border-bottom: 1px solid #e7e9fc;
-    box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 2px 1px 0 rgba(46, 47, 66, 0.08);
-  
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./images/people-office\ 1\ \(1\)\ \(1\).jpg); 
 }
 .main-page-navigation > a {
     font-family: "Raleway", sans-serif;
@@ -165,7 +164,7 @@ background-color: #404bbf;
     letter-spacing: 0.02em;
     padding-top: 24px;
     padding-bottom: 24px;
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+     
 
 }
  
