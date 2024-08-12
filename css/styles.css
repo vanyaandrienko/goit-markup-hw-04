@@ -421,6 +421,9 @@ font-size: 16px;
     padding-bottom: 120px;
     background-color: #FFFFFF;
 }
+.portfolio-card:hover .paragraph-list {
+    transform: translate(0);
+}
 
 
 .page-apps-text {
@@ -506,6 +509,10 @@ color: #434455;
 }
 .main-page-navigation-link-under{color: #f4f4fd;
 
+}
+.page-underside > .container {
+    display: flex;
+    align-items: baseline;
 }
 
 .page-underside .link {
