@@ -513,6 +513,10 @@ color: #434455;
 .page-underside > .container {
     display: flex;
     align-items: baseline;
+    
+}
+.underside {
+    margin-right: 120px;
 }
 
 .page-underside .link {
@@ -554,6 +558,14 @@ padding-right: auto;
         padding-left: auto;
             padding-right: auto;
             text-decoration: none;
+}
+.social {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF; 
+    margin-bottom: 16px;
 }
 
 
